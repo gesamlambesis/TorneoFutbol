@@ -1,0 +1,2752 @@
+2015-11-06 12:47:42 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-06 12:48:29 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-06 12:49:57 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-06 12:53:48 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-06 12:53:48 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-06 12:53:50 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-06 12:54:15 (CST)      No existe una vista asociada a esta peticiÃ³n: views\Equipo\crear.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-10 09:37:35 (CST)      No existe el modelo models\IndexModel.php C:\Apache24\htdocs\TorneoFutbol\libs\Controller.php 32
+
+2015-11-10 11:26:57 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 41
+
+2015-11-10 11:28:33 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 41
+
+2015-11-10 11:29:08 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:29:56 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:32:00 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:34:39 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:34:58 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:36:33 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:36:40 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:36:52 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:37:48 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:39:05 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:40:09 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 11:40:12 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 12:07:39 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 12:49:34 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 12:50:51 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 12:52:29 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-10 12:53:06 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:18:44 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:20:30 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:20:44 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:20:51 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:22:17 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:24:38 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:27:16 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 102
+
+2015-11-11 09:28:07 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 102
+
+2015-11-11 09:34:53 (CST)      No existe el modelo models\PartidoModel.php C:\Apache24\htdocs\TorneoFutbol\libs\Controller.php 32
+
+2015-11-11 09:45:01 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-11 09:50:35 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:52:11 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-11 09:52:18 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 09:52:31 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-11 09:53:20 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-11 10:00:57 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-11 10:01:00 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 10:01:04 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-11 10:13:56 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-11 10:14:00 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-11 10:14:05 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-12 08:00:49 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:08:24 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:08:50 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:09:08 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:09:08 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:10:02 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:10:02 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 102
+
+2015-11-12 08:11:49 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:11:49 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:12:35 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:12:35 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:13:36 (CST)      Array to string conversion C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 141
+
+2015-11-12 08:13:36 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:14:47 (CST)      Array to string conversion C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 141
+
+2015-11-12 08:14:47 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:15:02 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:15:03 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:15:20 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:15:20 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:19:31 (CST)      Use of undefined constant nombre_equipo - assumed 'nombre_equipo' C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 141
+
+2015-11-12 08:19:31 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 141
+
+2015-11-12 08:19:31 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:19:44 (CST)      Undefined variable: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 141
+
+2015-11-12 08:19:44 (CST)      Undefined index:  C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 141
+
+2015-11-12 08:19:44 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:19:59 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:19:59 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:21:04 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:21:04 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 103
+
+2015-11-12 08:30:06 (CST)      Undefined variable: date C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 96
+
+2015-11-12 08:38:28 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-12 08:48:24 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-12 08:48:34 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-12 08:50:28 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-12 08:58:03 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-12 08:58:13 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-12 09:10:36 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-12 09:20:37 (CST)      Undefined variable: date C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 96
+
+2015-11-12 10:08:55 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 64
+
+2015-11-12 10:08:55 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 65
+
+2015-11-12 10:08:55 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 66
+
+2015-11-12 10:08:55 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 10:08:55 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:21:26 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 64
+
+2015-11-12 11:21:26 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 65
+
+2015-11-12 11:21:26 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 66
+
+2015-11-12 11:21:26 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:21:26 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:22:02 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 65
+
+2015-11-12 11:22:02 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 66
+
+2015-11-12 11:22:02 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:22:02 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:22:02 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 69
+
+2015-11-12 11:23:29 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 65
+
+2015-11-12 11:23:29 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 66
+
+2015-11-12 11:23:29 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:23:29 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:23:29 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 69
+
+2015-11-12 11:31:35 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 65
+
+2015-11-12 11:31:35 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 66
+
+2015-11-12 11:31:35 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:31:35 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:31:35 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 69
+
+2015-11-12 11:31:35 (CST)      Undefined variable: fecha_creacion C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 45
+
+2015-11-12 11:33:02 (CST)      Undefined index: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 65
+
+2015-11-12 11:33:02 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 66
+
+2015-11-12 11:33:02 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:33:02 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:33:02 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 69
+
+2015-11-12 11:33:02 (CST)      Undefined variable: fecha_creacion C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 45
+
+2015-11-12 11:36:20 (CST)      Undefined index: nombre C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:36:20 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:36:20 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 69
+
+2015-11-12 11:36:20 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 70
+
+2015-11-12 11:36:20 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 71
+
+2015-11-12 11:36:20 (CST)      Undefined variable: fecha_creacion C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 45
+
+2015-11-12 11:36:31 (CST)      Undefined index: nombre C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 67
+
+2015-11-12 11:36:31 (CST)      Undefined index: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 68
+
+2015-11-12 11:36:31 (CST)      Undefined index: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 69
+
+2015-11-12 11:36:31 (CST)      Undefined index: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 70
+
+2015-11-12 11:36:31 (CST)      Undefined index: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 71
+
+2015-11-12 11:36:31 (CST)      Undefined variable: fecha_creacion C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 45
+
+2015-11-12 11:40:55 (CST)      Undefined variable: nombre_equipo C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 100
+
+2015-11-12 11:40:55 (CST)      Undefined variable: patrocinadores C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 100
+
+2015-11-12 11:40:55 (CST)      Undefined variable: categoria C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 100
+
+2015-11-12 11:40:55 (CST)      Undefined variable: camiseta1 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 100
+
+2015-11-12 11:40:55 (CST)      Undefined variable: camiseta2 C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 100
+
+2015-11-12 11:40:55 (CST)      Undefined variable: fecha_creacion C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 45
+
+2015-11-12 11:57:10 (CST)      vsprintf(): Too few arguments C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 56
+
+2015-11-12 11:59:15 (CST)      vsprintf(): Too few arguments C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 56
+
+2015-11-12 12:00:10 (CST)      vsprintf(): Too few arguments C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 56
+
+2015-11-12 12:01:41 (CST)      vsprintf(): Too few arguments C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 56
+
+2015-11-12 12:25:17 (CST)      Undefined variable: date C:\Apache24\htdocs\TorneoFutbol\models\EquipoModel.php 96
+
+2015-11-12 12:49:30 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 103
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$produccion C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 107
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$inventario_inicial C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 108
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$inventario_final C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 109
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$produccion C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 107
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$inventario_inicial C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 108
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$inventario_final C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 109
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$produccion C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 107
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$inventario_inicial C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 108
+
+2015-11-12 12:55:56 (CST)      Undefined property: models\JugadorModel::$inventario_final C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 109
+
+2015-11-12 12:56:28 (CST)      Undefined property: models\JugadorModel::$inventario_final C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 109
+
+2015-11-12 12:56:28 (CST)      Undefined property: models\JugadorModel::$inventario_final C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 109
+
+2015-11-12 12:56:28 (CST)      Undefined property: models\JugadorModel::$inventario_final C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 109
+
+2015-11-12 13:00:11 (CST)      Array to string conversion C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 85
+
+2015-11-13 07:11:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:11:31 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:11:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:11:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:15:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:15:46 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:17:59 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:18:26 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:18:32 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:21:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:22:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:24:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:25:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:25:58 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:26:01 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:26:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:26:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:26:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 2
+
+2015-11-13 07:41:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 07:52:10 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 07:59:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 07:59:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 07:59:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:21:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:21:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:21:06 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:12 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:17 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:21 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:22:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:22:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:54:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:54:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:54:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:54:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:54:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:54:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:08 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:55:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:55:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:55:34 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:55:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:56:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:56:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:56:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-13 08:57:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-13 08:57:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-13 08:57:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 08:57:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 08:57:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:01:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:01:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:32:11 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:32:11 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:32:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:32:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:33:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:33:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:33:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:33:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 09:34:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:46 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-13 09:34:46 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-13 09:34:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:47 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-13 09:34:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:34:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 09:34:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 09:37:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-13 09:37:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:08 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-13 09:37:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:11 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:37:11 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 09:37:11 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:47:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:47:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:54:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:54:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-13 09:54:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:54:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:54:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:55:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:55:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:55:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:56:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:57:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:57:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:57:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:57:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 09:57:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 10:10:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 10:10:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 10:11:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 10:11:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 10:13:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-13 10:13:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:13 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 08:05:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 08:05:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:23 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 08:05:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 08:05:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:28 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 08:05:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 08:05:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:35 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 08:05:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:05:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:08:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:08:49 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 08:08:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:11:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:16:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:16:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:16:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:16:59 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 08:16:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:17:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:17:01 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 08:17:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 08:18:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:30 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 08:18:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:32 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 08:18:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 08:18:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:37 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 08:18:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:18:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:25:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:25:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:25:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:25:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 08:25:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:25:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:26:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:26:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:26:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:26:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:27:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:27:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:27:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:27:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 08:27:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:29:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:31:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:31:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:31:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:31:15 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:31:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:31:53 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:32:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:32:45 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:32:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:32:47 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:32:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:32:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:32:50 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:34:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:34:40 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:34:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:34:53 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:35:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:35:47 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:35:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:35:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:35:51 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:37:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:37:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:37:03 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:37:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:37:36 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:39:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:39:39 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:40:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:40:36 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:40:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:40:38 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 08:40:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:40:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 08:40:40 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 09:30:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:31:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:32:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:32:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:33:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:43:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:43:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:43:48 (CST)      vsprintf(): Too few arguments C:\Apache24\htdocs\TorneoFutbol\models\PartidoModel.php 117
+
+2015-11-17 09:47:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:47:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:47:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:47:25 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 09:47:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:49:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:49:32 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 09:49:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:49:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:49:34 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 09:49:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:49:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:49:35 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Partido\listar.php 102
+
+2015-11-17 09:49:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:54:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:54:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:54:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:54:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:54:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:54:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:55:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:55:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:04 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 09:56:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 09:56:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:12 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 09:56:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 09:56:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 09:56:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:56:25 (CST)      Fichero controllers\SessionUtils no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-17 09:57:11 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 09:57:11 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 38
+
+2015-11-17 09:57:11 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:00:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:00:59 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 10:01:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:01:00 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 38
+
+2015-11-17 10:01:00 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:01:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:01:21 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:01:21 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:01:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:01:42 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:01:42 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:02:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:02:35 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:02:35 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:02:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:02:42 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:02:42 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:03:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:21 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:03:21 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:03:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:23 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:03:23 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:03:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:23 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:03:23 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:03:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:24 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:03:24 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:03:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 10:03:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:24 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:03:24 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:03:31 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:31 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 10:03:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:03:32 (CST)      Undefined variable: a C:\Apache24\htdocs\TorneoFutbol\controllers\Index.php 21
+
+2015-11-17 10:03:32 (CST)      No existe una vista asociada a esta peticiÃ³n: views\\Index.php no existe C:\Apache24\htdocs\TorneoFutbol\libs\View.php 19
+
+2015-11-17 10:04:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:13 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 10:04:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 10:04:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:26 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:26 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 10:04:26 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:31 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:31 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 10:04:32 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 10:04:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:31:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:31:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 11:31:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:31:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:31:21 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:31:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:33:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:33:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:33:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:33:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:33:52 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:33:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 11:34:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:34:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 11:34:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:34:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:34:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:35:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 11:35:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:08 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 11:35:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 11:35:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 11:35:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:36 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-17 11:35:36 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 11:35:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:35:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:35:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:36 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 11:36:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 11:36:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 11:36:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:42 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 11:36:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 11:36:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:36:45 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 11:36:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:50:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:50:59 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 11:50:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:58:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:59:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:59:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 11:59:34 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 11:59:34 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 189
+
+2015-11-17 12:00:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:00:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:00:16 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 189
+
+2015-11-17 12:00:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:00:27 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:00:27 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 189
+
+2015-11-17 12:01:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:01:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:02:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:02:23 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:03:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:03:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:08:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:08:22 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 12:08:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:08:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:08:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:08:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:08:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:09:06 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:06 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 12:09:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:22 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:09:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:29 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:29 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 12:09:29 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:09:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:13:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:13:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:13:43 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 194
+
+2015-11-17 12:21:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:21:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:21:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:21:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:23:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:23:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 12:23:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:23:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:23:37 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:23:37 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 194
+
+2015-11-17 12:26:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:26:49 (CST)      Array to string conversion C:\Apache24\htdocs\TorneoFutbol\controllers\Jugador.php 26
+
+2015-11-17 12:26:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:26:49 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 194
+
+2015-11-17 12:27:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:27:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:27:09 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 194
+
+2015-11-17 12:28:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:28:46 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:29:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:29:58 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:30:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:30:19 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:30:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:30:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:32:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:32:15 (CST)      Undefined variable: jugadores C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 84
+
+2015-11-17 12:32:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:32:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:32:21 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 12:32:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:32:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:32:22 (CST)      Undefined variable: jugadores C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 84
+
+2015-11-17 12:32:22 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:32:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:32:39 (CST)      Undefined variable: jugadores C:\Apache24\htdocs\TorneoFutbol\models\JugadorModel.php 84
+
+2015-11-17 12:32:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:37:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:37:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:38:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:38:08 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:38:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:38:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:38:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:38:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:39:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:39:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:43:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:43:45 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:45:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:45:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:45:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:45:28 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:45:31 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:45:31 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:45:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:45:47 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 12:45:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:45:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:46:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:46:28 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:48:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:48:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:48:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:48:59 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:49:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:49:25 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:49:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:49:36 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:50:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:50:01 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:50:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:50:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 12:50:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:50:26 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:50:26 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-17 12:50:26 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:50:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:50:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 12:51:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:51:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 12:51:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:51:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 12:51:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:07:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:07:25 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:07:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:07:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:07:28 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:07:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:07:32 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:07:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:07:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:07:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:08:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:08:10 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:08:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:08:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:08:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:08:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:08:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:10:57 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:10:57 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:11:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:11:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:11:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:11:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:11:13 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:11:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:11:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:11:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:11:37 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:11:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:12:04 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:12:04 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-17 14:12:04 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:13:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:13:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:14:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:14:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:14:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:14:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:14:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:15:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:15:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:15:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:15:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:15:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:16:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:16:17 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:16:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:16:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:16:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:16:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:16:53 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:17:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:17:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:17:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:17:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:17:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:19:11 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:19:11 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:19:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:19:32 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:19:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:19:34 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:19:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:19:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:19:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:20:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:20:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:21:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:21:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:21:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:21:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:21:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:21:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:21:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:22:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:01 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:22:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:03 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:22:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:22 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:22:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:23 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:22:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:29 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:29 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:22:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:22:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:23:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:23:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:23:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:24:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:24:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:24:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:24:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:24:58 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:24:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:25:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:25:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:25:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:25:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:25:58 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:25:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:26:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:26:14 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:26:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:26:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:26:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:26:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:26:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:26:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:26:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:27:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:27:58 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:27:58 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:28:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:02 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:28:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:13 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:28:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:28:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:28:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:03 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:29:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:06 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:06 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:29:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:22 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:37 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:29:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:29:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:29:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:29:53 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:29:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:30:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:30:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:30:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:46 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:30:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:47 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:30:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:30:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:30:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 14:31:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 14:31:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:31:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:31:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:12 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:31:12 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 14:31:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:17 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:31:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:31:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:31:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:35:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:35:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:35:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:35:10 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:35:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:35:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:35:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:35:57 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:35:57 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:36:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:36:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:36:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:36:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:38:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:38:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:38:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:38:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:38:53 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:38:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:38:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:38:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:38:57 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:38:57 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:39:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:39:27 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:39:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:39:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:39:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:21 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 14:40:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:22 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:40:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:40:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:25 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:25 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:32 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:32 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:34 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:36 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:40:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:37 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:40:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:42 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:45 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:40:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:40:46 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:41:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:41:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 14:41:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:41:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:42:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:17 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:44:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:28 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:44:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:44:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:44:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:44:52 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:44:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:45:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:45:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 4
+
+2015-11-17 14:45:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:46:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:46:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:44 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-17 14:47:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:48 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-17 14:47:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-17 14:47:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:47:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:47:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:52 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:47:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:47:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:48:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:48:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:48:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:48:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:48:08 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:48:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:48:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-17 14:48:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-17 14:48:27 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-17 14:48:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:45 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-18 07:59:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 07:59:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 07:59:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:57 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 07:59:57 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 07:59:57 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:00:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:00:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:01:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:01:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:01:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:01:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:01:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-18 08:09:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 08:09:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:09:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:10:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:10:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:10:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:10:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:11:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:12:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:29 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:29 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:13:29 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:13:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:34 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:13:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:36 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:13:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:13:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:13:47 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:14:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:10 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:14:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:14:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:14:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 08:14:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:14:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:37 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 08:14:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 08:14:42 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 08:14:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:09:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:09:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:58:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:58:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:58:43 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:58:43 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-18 09:58:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 09:58:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:21:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:21:14 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:21:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:21:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-18 11:21:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:21:24 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-18 11:21:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:21:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:23:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:23:37 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:23:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:23:41 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-18 11:23:42 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:23:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:26:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:26:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:26:40 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:29:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:29:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:29:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:29:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:29:24 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:29:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:29:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:29:46 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:29:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:30:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:30:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:30:33 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:32:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:32:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:32:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:32:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:32:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:32:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:36:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:36:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:36:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:37:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:37:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:37:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:38:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:38:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:38:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:40:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:40:34 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:40:34 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:44:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:44:01 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:44:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:44:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:44:03 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:44:03 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:45:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:45:08 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:45:08 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:46:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:46:23 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:46:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:46:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:46:27 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:46:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:46:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:46:53 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:46:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:47:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:47:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:47:35 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:47:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:47:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:47:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:48:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:48:10 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:48:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:49:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:49:47 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:49:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:50:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:50:13 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:50:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:50:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:50:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:50:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:53:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:53:48 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:53:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:54:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:54:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:54:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:54:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:54:50 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:54:50 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:56:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 11:56:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 11:56:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:27:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:27:42 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:27:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:28:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:28:15 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:28:15 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:28:38 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:28:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:28:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:29:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:29:28 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:29:28 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:01 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:30:01 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:17 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:30:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:19 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:30:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:30:21 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:30:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:44 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:31:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:47 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:31:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:53 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:31:53 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:31:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:57 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:31:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:32:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:32:55 (CST)      PDO::__construct():  C:\Apache24\htdocs\TorneoFutbol\libs\DBConexion.php 22
+
+2015-11-18 12:32:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:32:55 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:33:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:33:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:33:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:33:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:33:18 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:33:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:33:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:33:21 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:33:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:04 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:04 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:35:04 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:06 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:06 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-18 12:35:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:09 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 12:35:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:10 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:35:17 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:37:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:37:42 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:37:47 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:38:06 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:38:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:38:09 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:41:52 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:42:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:43:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:19 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:21 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:44:48 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:00 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:04 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:04 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:07 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:22 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:36 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:45:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:46:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:46:49 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:05 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:16 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:27 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:30 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:45 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:51 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:47:51 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:54 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:54 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-18 12:47:56 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:47:56 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-18 12:47:59 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:48:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:13 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:18 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-18 12:49:20 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:23 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-18 12:49:23 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-18 12:49:24 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-19 10:07:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-19 10:07:02 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-19 10:07:02 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:39 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-20 07:08:39 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:41 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-20 07:08:41 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:44 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-20 07:08:44 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 07:08:46 (CST)      Undefined variable: F3 C:\Apache24\htdocs\TorneoFutbol\index.php 14
+
+2015-11-20 08:32:30 (CST)      No existe el modelo models\IndexModel.php C:\Apache24\htdocs\TorneoFutbol\libs\Controller.php 30
+
+2015-11-20 08:32:35 (CST)      No existe el modelo models\IndexModel.php C:\Apache24\htdocs\TorneoFutbol\libs\Controller.php 30
+
+2015-11-20 08:33:06 (CST)      No existe el modelo models\IndexModel.php C:\Apache24\htdocs\TorneoFutbol\libs\Controller.php 30
+
+2015-11-20 08:36:06 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-20 08:41:29 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:42:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:42:00 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-20 08:42:03 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:42:03 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-20 08:42:20 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-20 08:42:25 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:42:25 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-20 08:43:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:45:48 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:45:48 (CST)      include(TorneoFutbol/libs/validaciones.php): failed to open stream: No such file or directory C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 18
+
+2015-11-20 08:45:48 (CST)      include(): Failed opening 'TorneoFutbol/libs/validaciones.php' for inclusion (include_path='.;C:\php\pear') C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 18
+
+2015-11-20 08:45:48 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-20 08:49:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:49:33 (CST)      include(TorneoFutbol/libs/validaciones.php): failed to open stream: No such file or directory C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 18
+
+2015-11-20 08:49:33 (CST)      include(): Failed opening 'TorneoFutbol/libs/validaciones.php' for inclusion (include_path='.;C:\php\pear') C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 18
+
+2015-11-20 08:49:33 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-20 08:52:16 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:52:16 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-20 08:52:45 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:53:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-20 08:53:07 (CST)      Undefined variable: obj C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 33
+
+2015-11-23 08:19:01 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-23 08:21:33 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-23 08:21:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 4
+
+2015-11-23 08:21:40 (CST)      include(TorneoFutbol/libs/validaciones.php): failed to open stream: No such file or directory C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 18
+
+2015-11-23 08:21:40 (CST)      include(): Failed opening 'TorneoFutbol/libs/validaciones.php' for inclusion (include_path='.;C:\php\pear') C:\Apache24\htdocs\TorneoFutbol\views\Equipo\crear.php 18
+
+2015-11-23 08:21:40 (CST)      Fichero validar no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-23 08:23:11 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+

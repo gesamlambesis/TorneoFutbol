@@ -1,0 +1,72 @@
+
+header{
+    margin-bottom: 15px;
+}
+.alert-dismissable{
+    display: none;
+}
+
+
+.filterable {
+    margin-top: 15px;
+}
+.filterable .panel-heading .pull-right {
+    margin-top: -20px;
+}
+.filterable .filters input[disabled] {
+    background-color: transparent;
+    border: none;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+}
+.filterable .filters input[disabled]::-webkit-input-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]::-moz-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]:-ms-input-placeholder {
+    color: #333;
+}
+
+
+
+/*Login CSS
+@charset "UTF-8";
+/* CSS Document */
+
+/*body {
+    width:100px;
+    height:100px;
+  background: -webkit-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Chrome 10+, Saf5.1+ */
+ /* background:    -moz-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* FF3.6+ */
+/*  background:     -ms-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* IE10 */
+ /* background:      -o-linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* Opera 11.10+ */
+/*  background:         linear-gradient(90deg, #16222A 10%, #3A6073 90%); /* W3C */
+/*font-family: 'Raleway', sans-serif;
+}*/
+
+/*p {
+    color:#CCC;
+}
+
+.spacing {
+    padding-top:7px;
+    padding-bottom:7px;
+}
+.middlePage {
+    width: 680px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.logo {
+    color:#CCC;
+}*/
