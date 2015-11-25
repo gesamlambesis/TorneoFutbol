@@ -237,7 +237,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script type="text/javascript">
                 $(".prueba1").on("click",function(){
-                  $("#modal-edit").load("<?php echo URL_BASE;?>/index.php/Equipo/eliminar_proveedor",{identificadorr:$(this).val()});
+                  $("#modal-edit").load("<?php echo URL_BASE;?>/index.php/Equipo/eliminar_equipo",{identificadorr:$(this).val()});
                 });                
 
                 $(".prueba").on("click", function(){                

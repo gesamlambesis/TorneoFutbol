@@ -191,6 +191,22 @@
 			} catch (Exception $e) {
 				View::renderErrors(array($e->getMessage()));
 			}
+		}
+
+		public function eliminar_equipo($params=array()){
+			try {
+
+				
+
+				$this->model->eliminarEquipo($params['identificadorr']);
+				echo "<script language='javascript'>"; 
+				echo "alert('LOOOOOOOOOOOOOL')"; 
+				echo "</script>";
+				
+				$this->listar();
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
 		}	
 
 

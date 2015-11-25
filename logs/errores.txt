@@ -3552,3 +3552,53 @@
 
 2015-11-24 23:15:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
 
+2015-11-25 08:12:30 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-25 08:12:35 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:12:39 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-25 08:12:58 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\crear.php 4
+
+2015-11-25 08:13:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:13:07 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:13:31 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:13:38 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:15:10 (CST)      Fichero controllers\View no existe C:\Apache24\htdocs\TorneoFutbol\autoload.php 25
+
+2015-11-25 08:15:17 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:15:25 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:15:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 08:23:26 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 10:11:54 (CST)      Undefined index: ultima_entrada C:\Apache24\htdocs\TorneoFutbol\views\Index\Index.php 135
+
+2015-11-25 10:11:59 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:12:11 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 10:14:05 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:15:30 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:17:31 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:17:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:18:31 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:18:40 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:18:49 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Jugador\listar.php 4
+
+2015-11-25 10:18:55 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
+2015-11-25 10:19:00 (CST)      A session had already been started - ignoring session_start() C:\Apache24\htdocs\TorneoFutbol\views\Equipo\listar.php 4
+
