@@ -113,6 +113,104 @@
 		    }
 				
 		}
+
+		public function modificar_equipo($params=array()){
+			try{
+				if(count($params) > 0){
+					$p = $this->model->getJugadorById($params['identificador']);
+                    //d = $this->model->getProveedorDireccionById($params['identificador']);
+					$var = $params['identificador'];
+
+					//var_dump($d);
+					if(empty($p)){
+						View::renderErrors(array("No existe el proveedor con identificador ".$params['identificador']));
+					}
+					else{
+					//	$this->view->render(explode("\\",get_class($this))[1], "modificar", $p[0], $d[0],$params, $this->getErrores());
+						//print_r($p);
+						$this->view->render(explode("\\",get_class($this))[1], "modificar",$p,$this->getErrores());
+
+						//if(isset($params['nombre']) && isset($params['aPaterno']) && isset($params['aMaterno']) && isset($params['fechaNacimiento']) && isset($params['ciudad']) && isset($params['cp']) && isset($params['colonia']) && isset($params['calle']) && isset($params['numero']) && isset($params['detalle'])/*/*&& isset($params['DIRECCION_idDireccion'])*/){
+							//$this->guardarDireccion($params1);
+
+						/*	print_r($params);
+							$this->updateCliente($params);
+					
+						}*/
+					}
+					
+				}
+				else{
+					
+					View::renderErrors(array("No se envio el identificador del cliente"));	
+				}
+			}
+			catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+			
+		}
+
+		public function actualizar_jugador($params=array()){
+			try {
+				if(isset($params['id_jugador']) && isset($params['nombre']) && isset($params['apellidos']) && isset($params['direccion']) && isset($params['telefono']) && isset($params['fecha_nacimiento']) && isset($params['dorsal']) ){
+					//$this->guardarDireccion($params1);
+
+					//print_r($params);
+					$this->updateJugador($params);
+					echo "<script language='javascript'>"; 
+					echo "alert('Proveedor actualizado correctamente.')"; 
+					echo "</script>";
+					$this->listar();
+				
+				}
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+		}
+
+		public function updateJugador($params){
+			try {
+				echo "<script language='javascript'>"; 
+				echo "alert('HOLI.')"; 
+				echo "</script>";
+
+				$id_jugador = $params['id_jugador'];
+				$nombre = $params['nombre'];
+				$apellidos = $params['apellidos'];
+				$direccion = $params['direccion'];
+				$telefono = $params['telefono'];
+				$fecha_nacimiento = $params['fecha_nacimiento'];
+				$num_dorsal = $params['dorsal'];
+
+				
+
+			    if(count($this->errores) ==0 ){
+			    	try{
+			        	$this->model->actualizarJugador($id_jugador, $nombre, $apellidos, $direccion, $telefono, $fecha_nacimiento, $num_dorsal);
+			    	}
+			    	catch(\Exception $e){
+						$this->errores['global']=$e->getMessage();
+					}
+		    	}			
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+		}	
+
+		public function eliminar_jugador($params=array()){
+			try {
+				$this->model->eliminarJugador($params['identificadorr']);
+				echo "<script language='javascript'>"; 
+				echo "alert('Jugador eliminado correctamente.')"; 
+				echo "</script>";
+				$this->proveedor_inicio();
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+		}
+
+
 	}
 
 ?>

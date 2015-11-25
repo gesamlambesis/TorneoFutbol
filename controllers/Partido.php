@@ -97,6 +97,89 @@
 		    }
 				
 		}
+
+		public function modificar_partido($params=array()){
+			try{
+				if(count($params) > 0){
+					$p = $this->model->getPartidoById($params['identificador']);
+                    //d = $this->model->getProveedorDireccionById($params['identificador']);
+					$var = $params['identificador'];
+
+					//var_dump($d);
+					if(empty($p)){
+						View::renderErrors(array("No existe el proveedor con identificador ".$params['identificador']));
+					}
+					else{
+					//	$this->view->render(explode("\\",get_class($this))[1], "modificar", $p[0], $d[0],$params, $this->getErrores());
+						//print_r($p);
+						$this->view->render(explode("\\",get_class($this))[1], "modificar",$p,$this->getErrores());
+
+						//if(isset($params['nombre']) && isset($params['aPaterno']) && isset($params['aMaterno']) && isset($params['fechaNacimiento']) && isset($params['ciudad']) && isset($params['cp']) && isset($params['colonia']) && isset($params['calle']) && isset($params['numero']) && isset($params['detalle'])/*/*&& isset($params['DIRECCION_idDireccion'])*/){
+							//$this->guardarDireccion($params1);
+
+						/*	print_r($params);
+							$this->updateCliente($params);
+					
+						}*/
+					}
+					
+				}
+				else{
+					
+					View::renderErrors(array("No se envio el identificador del cliente"));	
+				}
+			}
+			catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+			
+		}
+
+		public function actualizar_partido($params=array()){
+			try {
+				if(isset($params['id_partido']) && isset($params['resultados']) && isset($params['estadio']) && isset($params['arbitro']) && isset($params['incidencia'])){
+					//$this->guardarDireccion($params1);
+
+					//print_r($params);
+					$this->updatePartido($params);
+					echo "<script language='javascript'>"; 
+					echo "alert('Proveedor actualizado correctamente.')"; 
+					echo "</script>";
+					$this->listar();
+				
+				}
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+		}
+
+		public function updatePartido($params){
+			try {
+				echo "<script language='javascript'>"; 
+				echo "alert('HOLI.')"; 
+				echo "</script>";
+
+				$id_partido = $params['id_partido'];
+				$resultados = $params['resultados'];
+				$estadio = $params['estadio'];
+				$arbitro = $params['arbitro'];
+				$incidencia = $params['incidencia'];
+				
+
+				
+
+			    if(count($this->errores) ==0 ){
+			    	try{
+			        	$this->model->actualizarPartido($id_partido,$resultados, $estadio, $arbitro, $incidencia);
+			    	}
+			    	catch(\Exception $e){
+						$this->errores['global']=$e->getMessage();
+					}
+		    	}			
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+		}	
 	}
 
 ?>

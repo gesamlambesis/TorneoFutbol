@@ -5,6 +5,7 @@ use libs\DBConexion;
 
 class JugadorModel {
 	
+	public $id_jugador;
 	public $nombre;
 	public $apellidos;
 	public $direccion;
@@ -109,6 +110,86 @@ class JugadorModel {
 		return $jugadores;
 
 	}
+
+	public function getJugadorById($id){
+		try{
+		$con = DBConexion::getInstance();
+		if (is_null($con)) {
+			throw new Exception("Error en la conexion a la base de datos, verifique",1);
+		}
+
+		$proveedor = $con->executeQuery("SELECT * FROM jugador WHERE id_jugador = ?;",array($id), __NAMESPACE__.'\JugadorModel');
+
+		return $proveedor;
+	}
+	catch (Exception $e) {
+		throw $e;	
+	}
+	}
+
+	public function actualizarJugador($id_jugador, $nombre, $apellidos, $direccion, $telefono, $fecha_nacimiento,$dorsal) {
+		try {
+			$this->id_jugador=$id_jugador;
+			$this->nombre=$nombre;			
+			$this->apellidos = $apellidos;
+			$this->direccion = $direccion;
+			$this->telefono = $telefono;
+			$this->fecha_nacimiento = $fecha_nacimiento;
+			$this->num_dorsal = $dorsal;			
+			echo "<script language='javascript'>"; 
+			echo "alert('LLEGO.')"; 
+			echo "</script>";
+			$this->update();
+		} catch (Exception $e) {
+			throw $e;
+		}
+	}
+
+	public function update(){
+		try {
+			$con = DBConexion::getInstance();
+
+			$params = array(					
+					$this->nombre,
+					$this->apellidos,
+					$this->direccion,
+					$this->telefono,
+					$this->fecha_nacimiento,
+					$this->num_dorsal,
+					$this->id_jugador
+					
+				);
+
+			$sql1 = vsprintf("UPDATE jugador SET nombre='%s', apellidos='%s',direccion='%s',telefono='%s',fecha_nacimiento='%s', num_dorsal='%s' WHERE id_jugador='%s';", $params);					
+			$con->executeUpdate(array($sql1));
+
+			
+
+		} catch (Exception $e) {
+			throw $e;	
+		}
+	}
+
+	
+		public function eliminar_jugador($id){
+		try {
+			$con = DBConexion::getInstance();
+
+			if (is_null($con)) {
+			throw new Exception("Error en la conexion a la base de datos, verifique",1);
+			}
+
+			$sql1 = vsprintf("DELETE FROM jugador WHERE id_jugador = '%s'", $id);			
+			$con->executeUpdate(array($sql1));
+
+		} catch (Exception $e) {
+			throw $e;
+		}
+	}
+
+
+
+	
 
 
 }

@@ -111,8 +111,8 @@
                  <td><?php echo $partido->estadio;?></td>
                  <td><?php echo $partido->arbitro;?></td>
                  <td><?php echo $partido->incidencia;?></td>
-                 <td><p data-placement="top" data-toggle="tooltip" title="Edit"><button class="btn btn-primary btn-xs" data-title="Edit" data-toggle="modal" data-target="#edit" ><span class="glyphicon glyphicon-pencil"></span></button></p></td>
-                <td><p data-placement="top" data-toggle="tooltip" title="Delete"><button class="btn btn-danger btn-xs" data-title="Delete" data-toggle="modal" data-target="#delete" ><span class="glyphicon glyphicon-trash"></span></button></p></td>
+                 <td><p data-placement="top" data-toggle="tooltip" title="Edit"><button class="btn btn-primary btn-xs prueba" data-title="Edit" data-toggle="modal" value="<?php echo $partido->id_partido;?>" data-target="#edit" ><span class="glyphicon glyphicon-pencil"></span></button></p></td>
+                <td><p data-placement="top" data-toggle="tooltip" title="Delete"><button class="btn btn-danger btn-xs prueba1" data-title="Delete" data-toggle="modal" value="<?php echo $partido->id_partido;?>" data-target="#delete" ><span class="glyphicon glyphicon-trash"></span></button></p></td>
                 </tr>
                 <?php endforeach; ?>
                 </tbody>
@@ -128,75 +128,67 @@
 </div>
 
 
-<div class="modal fade" id="edit" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true">
-      <div class="modal-dialog">
-    <div class="modal-content">
-          <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>
-        <h4 class="modal-title custom_align" id="Heading">Editar información del equipo</h4>
-      </div>
-          <div class="modal-body">
+ <div class="modal fade" id="edit" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true">
+                      <div class="modal-dialog">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>
+                            <!--<h4 class="modal-title custom_align" id="Heading">Edit Your Detail</h4>-->
+                          </div>
+                          <div class="modal-body" id="modal-edit">
+                            <div class="form-group">
+                              <!--<input class="form-control " type="text" placeholder="<?php //echo $proveedor->rfc;?>">-->
+                            </div>
+                            <div class="form-group">
+                              
+                              <input class="form-control " type="text" placeholder="Irshad">
+                            </div>
+                            <div class="form-group">
+                              <textarea rows="2" class="form-control" placeholder="CB 106/107 Street # 11 Wah Cantt Islamabad Pakistan"></textarea>
+                              
+                              
+                            </div>
+                          </div>
+                          <!--<div class="modal-footer ">-->
+                          <!--<button type="button" class="btn btn-warning btn-lg" style="width: 100%;"><span class="glyphicon glyphicon-ok-sign"></span> Update</button>-->
+                          <!--</div>-->
+                        </div>
+                        <!-- /.modal-content -->
+                      </div>
+                      <!-- /.modal-dialog -->
+                    </div>
+                    
+                    
+                    
+                    <!--<div class="modal fade" id="delete" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true">
+                      <div class="modal-dialog">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>
+                            <h4 class="modal-title custom_align" id="Heading">Delete this entry</h4>
+                          </div>
+                          <div class="modal-body">
+                            
+                            <div class="alert alert-danger"><span class="glyphicon glyphicon-warning-sign"></span> Are you sure you want to delete this Record?</div>
+                            
+                          </div>
+                          <div class="modal-footer ">
+                            <button type="button" class="btn btn-success" ><span class="glyphicon glyphicon-ok-sign"></span> Yes</button>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> No</button>
+                          </div>
+                        </div>
+                        /.modal-content 
+                      </div>
+                      /.modal-dialog 
+                    </div>-->
+                    <!-- /. ROW  -->
+                    
+                    <!-- /. PAGE INNER  -->
+                  </div>
+                  <!-- /. PAGE WRAPPER  -->
+                </div>
 
-        <div class="form-group">
-        <label>Nombre del equipo: </label>
-        <input class="form-control " type="text" value=<?php echo "Valor"?> placeholder="Nombre del equipo...">
-        </div>
 
-        <div class="form-group">
-         <label>Patrocinador: </label>
-        <input class="form-control " type="text"  value=<?php echo "Valor"?> placeholder="Patrocinador...">
-        </div>
-
-        <div class="form-group">
-         <label>Categoria: </label>
-        <input class="form-control " type="text"  value=<?php echo "Valor"?> placeholder="Categoria...">
-        </div>
-
-         <div class="form-group">
-         <label>Camiseta 1: </label>
-        <input class="form-control " type="text"  value=<?php echo "Valor"?> placeholder="Camiseta 1...">
-        </div>
-
-         <div class="form-group">
-         <label>Camiseta 2: </label>
-        <input class="form-control " type="text" value=<?php echo "Valor"?> placeholder="Camiseta 2...">
-        </div>
-
-      
-
-      </div>
-          <div class="modal-footer ">
-        <button type="button" class="btn btn-warning btn-lg" style="width: 100%;"><span class="glyphicon glyphicon-ok-sign"></span> Guardar cambios</button>
-      </div>
-        </div>
-    <!-- /.modal-content --> 
-  </div>
-      <!-- /.modal-dialog --> 
-    </div>
-    
-    
-    
-    <div class="modal fade" id="delete" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true">
-      <div class="modal-dialog">
-    <div class="modal-content">
-          <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>
-        <h4 class="modal-title custom_align" id="Heading">Delete this entry</h4>
-      </div>
-          <div class="modal-body">
-       
-       <div class="alert alert-danger"><span class="glyphicon glyphicon-warning-sign"></span> Está seguro que desea eliminar este equipo?</div>
-       
-      </div>
-        <div class="modal-footer ">
-        <button type="button" class="btn btn-success" ><span class="glyphicon glyphicon-ok-sign"></span> Si</button>
-        <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> No</button>
-      </div>
-        </div>
-    <!-- /.modal-content --> 
-  </div>
-      <!-- /.modal-dialog --> 
-    </div>
 
 
 
@@ -226,7 +218,15 @@
     <script src="<?php echo URL_BASE."/public/js/bootstrap.min.js";?>"></script>
 
 
-   
+    <script type="text/javascript">
+                $(".prueba1").on("click",function(){
+                  $("#modal-edit").load("<?php echo URL_BASE;?>/index.php/Partido/eliminar_partido",{identificadorr:$(this).val()});
+                });                
+
+                $(".prueba").on("click", function(){                
+                  $("#modal-edit").load("<?php echo URL_BASE;?>/index.php/Partido/modificar_partido", {identificador:$(this).val()});                               
+                });
+                </script>
    
       
 

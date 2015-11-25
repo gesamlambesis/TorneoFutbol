@@ -6,6 +6,7 @@ use libs\DBConexion;
 class PartidoModel {
 	
 
+	public $id_partido;
 	public $resultado;
 	public $estadio;
 	public $arbitro;
@@ -126,6 +127,22 @@ class PartidoModel {
 
 	}
 
+	public function getPartidoById($id){
+		try{
+		$con = DBConexion::getInstance();
+		if (is_null($con)) {
+			throw new Exception("Error en la conexion a la base de datos, verifique",1);
+		}
+
+		$proveedor = $con->executeQuery("SELECT * FROM partido WHERE id_partido = ?;",array($id), __NAMESPACE__.'\PartidoModel');
+
+		return $proveedor;
+	}
+	catch (Exception $e) {
+		throw $e;	
+	}
+	}
+
 	public function listarPartidos() {
 		
 		$con = DBConexion::getInstance();
@@ -141,6 +158,49 @@ class PartidoModel {
 		return $inventarios;
 
 	}
+
+	public function actualizarPartido($id_partido,$resultados, $estadio, $arbitro, $incidencia) {
+		try {
+			$this->id_partido=$id_partido;
+			$this->resultado=$resultados;			
+			$this->estadio = $estadio;
+			$this->arbitro = $arbitro;
+			$this->incidencia = $incidencia;
+						
+			echo "<script language='javascript'>"; 
+			echo "alert('LLEGO.')"; 
+			echo "</script>";
+			$this->update();
+		} catch (Exception $e) {
+			throw $e;
+		}
+	}
+
+	public function update(){
+		try {
+			$con = DBConexion::getInstance();
+
+			$params = array(					
+					
+					$this->resultado,
+					$this->estadio,
+					$this->arbitro,
+					$this->incidencia,
+					$this->id_partido					
+					
+				);
+
+			$sql1 = vsprintf("UPDATE partido SET resultados='%s', estadio='%s',arbitro='%s',incidencia='%s' WHERE id_partido='%s';", $params);					
+			$con->executeUpdate(array($sql1));
+
+			
+
+		} catch (Exception $e) {
+			throw $e;	
+		}
+	}
+
+
 
 
 }
