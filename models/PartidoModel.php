@@ -200,6 +200,22 @@ class PartidoModel {
 		}
 	}
 
+	public function eliminarPartido($id){
+		try {
+			$con = DBConexion::getInstance();
+
+			if (is_null($con)) {
+			throw new Exception("Error en la conexion a la base de datos, verifique",1);
+			}
+
+			$sql1 = vsprintf("DELETE FROM partido WHERE id_partido = '%s'", $id);			
+			$con->executeUpdate(array($sql1));
+
+		} catch (Exception $e) {
+			throw $e;
+		}
+	}
+
 
 
 

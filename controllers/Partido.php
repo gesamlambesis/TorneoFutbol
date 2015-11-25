@@ -180,6 +180,21 @@
 				View::renderErrors(array($e->getMessage()));
 			}
 		}	
+
+		public function eliminar_partido($params=array()){
+			try {
+
+				
+
+				$this->model->eliminarPartido($params['identificadorr']);
+				echo "<script language='javascript'>"; 
+				echo "alert('Jugador eliminado correctamente.')"; 
+				echo "</script>";
+				$this->listar();
+			} catch (Exception $e) {
+				View::renderErrors(array($e->getMessage()));
+			}
+		}
 	}
 
 ?>

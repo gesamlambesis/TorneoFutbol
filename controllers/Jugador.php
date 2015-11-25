@@ -114,7 +114,7 @@
 				
 		}
 
-		public function modificar_equipo($params=array()){
+		public function modificar_jugador($params=array()){
 			try{
 				if(count($params) > 0){
 					$p = $this->model->getJugadorById($params['identificador']);
@@ -200,11 +200,14 @@
 
 		public function eliminar_jugador($params=array()){
 			try {
+
+				
+
 				$this->model->eliminarJugador($params['identificadorr']);
 				echo "<script language='javascript'>"; 
 				echo "alert('Jugador eliminado correctamente.')"; 
 				echo "</script>";
-				$this->proveedor_inicio();
+				$this->listar();
 			} catch (Exception $e) {
 				View::renderErrors(array($e->getMessage()));
 			}

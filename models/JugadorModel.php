@@ -55,7 +55,7 @@ class JugadorModel {
 		//$sql1 = vsprintf("INSERT INTO equipo VALUES(%s, %s, %s,%s,%s);", $params);
 		//$sql1 = vsprintf("INSERT INTO jugador (nombre,apellidos,direccion, telefono, fecha_nacimiento, num_dorsal, id_equipo, usuario_creador, fecha_creacion, ultima_modificacion) VALUES ('%s','%s','%s','%s','%s',%s,%s, '%s', '%s', '%s')", $params);
 		$sql1 = "INSERT INTO jugador (nombre,apellidos,direccion, telefono, fecha_nacimiento, num_dorsal, id_equipo, usuario_creador, fecha_creacion, ultima_modificacion) VALUES
-		('$nombre', '$apellidos', '$direccion', '$telefono' , $fecha_nacimiento, '$num_dorsal',
+		('$nombre', '$apellidos', '$direccion', '$telefono' , '$fecha_nacimiento', '$num_dorsal',
 			'$id_equipo', 'PANCHO','$date', '$date');";
 		echo $sql1;
 
@@ -171,7 +171,7 @@ class JugadorModel {
 	}
 
 	
-		public function eliminar_jugador($id){
+		public function eliminarJugador($id){
 		try {
 			$con = DBConexion::getInstance();
 

@@ -241,7 +241,7 @@
                 });                
 
                 $(".prueba").on("click", function(){                
-                  $("#modal-edit").load("<?php echo URL_BASE;?>/index.php/Jugador/modificar_equipo", {identificador:$(this).val()});                               
+                  $("#modal-edit").load("<?php echo URL_BASE;?>/index.php/Jugador/modificar_jugador", {identificador:$(this).val()});                               
                 });
                 </script>
    
