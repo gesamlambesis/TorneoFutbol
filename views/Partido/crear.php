@@ -174,7 +174,7 @@
               
 
                       <textarea rows="4" cols="50" placeholder=" Describa la incidencia..." id="incidencia" step="1" name="incidencia" id="incidencia"></textarea>
-
+                       <?php if(isset($this->errores['incidencia'])) :?> <span id="helpBlock" class="help-block"><?php echo $this->errores['incidencia'];?></span><?php endif;?>
                 </div>    
                
               </div>  

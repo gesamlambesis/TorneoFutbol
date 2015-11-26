@@ -101,6 +101,10 @@
 </br></br></br>
 <div class="container">
     <h1 class="well">Registro Jugador</h1>
+      <?php $errores = $this->getErrores();
+
+      print_r($errores);
+            ?>
   <div class="col-lg-12 well">
   <div class="row">
         <form role="form" class="form" id="form1" method="POST" action="">                
@@ -137,7 +141,7 @@
                     <label for="direccion">Direccion:</label>
 
                     <input type="text" required class="form-control"  value="" name="direccion" id="direccion" placeholder="Direccion..." min="1" max="10000000" step="1">
-                    <?php if(isset($this->errores['direccion'])) :?> <span id="helpBlock" class="help-block"><?php echo $this->errores['Direccion'];?></span><?php endif;?>
+                    <?php if(isset($this->errores['direccion'])) :?> <span id="helpBlock" class="help-block"><?php echo $this->errores['direccion'];?></span><?php endif;?>
 
                 </div>    
                 
@@ -188,7 +192,7 @@
 
                   
                   <label for="equipo">Equipo:</label>
-               <select id="equipo" name="equipo" class="form-control">
+               <select id="equipo" required name="equipo" class="form-control">
                 <option value="">-- Seleccione un Equipo --</option>
                 
 

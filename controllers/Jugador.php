@@ -1,13 +1,17 @@
 <?php
 	namespace controllers;	
 	use libs\Controller;
+	use libs\Validation;
+	use libs\View;
 
 	class Jugador extends Controller {
+
+		private $valida;
 
 		public function __construct(){
 			parent::__construct();
 			$this->loadModel();
-
+			$this->valida = new Validation();
 			
 		}
 
@@ -27,8 +31,25 @@
 
 			//Llamando al metodo del modelo
 			if(isset($params['nombre_jugador']) && isset($params['apellidos']) && isset($params['direccion']) && isset($params['telefono']) && isset($params['fecha_nacimiento']) && isset($params['num_dorsal']) && isset($params['equipo']) ){
-				$this->crearJugador($params);
 				
+				try {
+					
+					$this->crearJugador($params);
+					$equipos = $this->model->listarEquipos();
+					$this->view->render(explode("\\",get_class($this))[1], "crear",$equipos, $this->getErrores());
+					
+					
+				} catch (Exception $e) {
+					View::renderErrors(array($e->getMessage()));
+				}
+
+				
+				
+			}
+
+			else {
+				$equipos = $this->model->listarEquipos();
+				$this->view->render(explode("\\",get_class($this))[1], "crear",$equipos, $this->getErrores());
 			}
 
 			//print_r($params);
@@ -39,10 +60,10 @@
 		//	}
 
 
-			$equipos = $this->model->listarEquipos();
+			
 			//print_r($equipos);
 			//Renderizando la vista asociada
-			$this->view->render(explode("\\",get_class($this))[1], "crear",$equipos, $this->getErrores());
+			
 
 		}
 
@@ -84,6 +105,37 @@
 		    $fecha_creacion = "12/12/2014";
 		    $fecha_modificacion ="12/12/2014";
 
+		    $this->valida->validaDatos($nombre,"El nombre del equipo no está escrito correctamente.",'nombre_jugador',25);
+		  	$this->valida->validaDatos($apellidos,"Los apellidos no están escritos correctamente.",'apellidos',25);
+		  	$this->valida->validaDatos($direccion,"La direccion no está escrita correctamente.", 'direccion',60);
+
+		  	$this->valida->validaNumeros($telefono, $min=10, $max=10000000000, $mensaje="El telefono no está escrito correctamente",'telefono');
+		  	$this->valida->validaNumeros($num_dorsal, $min=1, $max=1000, $mensaje="El telefono no está escrito correctamente",'num_dorsal');
+		  //	$this->valida->validaDatos($camiseta2,"La camiseta2 no está escrita correctamente.", 'camiseta2', 25);
+
+		  	 if(count($this->valida->getErroresValidacion()) == 0 ){
+
+		  	 	  if(count($this->errores) ==0 ){
+		    	try{
+		        	$this->model->guardar($nombre,$apellidos, $direccion, $telefono, $fecha_nacimiento, $num_dorsal, $equipo, $usuario, $fecha_creacion, $fecha_modificacion);
+		        	//echo "no hay error";
+		    	}
+		    	catch(\Exception $e){
+					$this->errores['global']=$e->getMessage();
+				}
+		    }
+
+		    	
+		    }
+
+		    
+
+		    else {
+		    	$this->view->render(explode("\\",get_class($this))[1], "crear",null,$this->valida->getErroresValidacion());
+		    }
+   
+
+
 		    
 
 
@@ -102,15 +154,7 @@
 		        
 		    }*/
 
-		    if(count($this->errores) ==0 ){
-		    	try{
-		        	$this->model->guardar($nombre,$apellidos, $direccion, $telefono, $fecha_nacimiento, $num_dorsal, $equipo, $usuario, $fecha_creacion, $fecha_modificacion);
-		        	//echo "no hay error";
-		    	}
-		    	catch(\Exception $e){
-					$this->errores['global']=$e->getMessage();
-				}
-		    }
+		  
 				
 		}
 

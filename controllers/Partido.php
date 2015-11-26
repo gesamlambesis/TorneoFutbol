@@ -1,12 +1,18 @@
 <?php
 	namespace controllers;	
 	use libs\Controller;
+	use libs\Validation;
+	use libs\View;
+	
 
 	class Partido extends Controller {
+
+		private $valida;
 
 		public function __construct(){
 			parent::__construct();
 			$this->loadModel();
+			$this->valida = new Validation();
 
 			
 		}
@@ -24,10 +30,23 @@
 
 			//Llamando al metodo del modelo
 			if(isset($params['resultado']) && isset($params['estadio']) && isset($params['arbitro']) && isset($params['incidencia']) ){
-				$this->crearPartido($params);
 				
+				
+				try {
+					$this->crearPartido($params);
+					$this->view->render(explode("\\",get_class($this))[1], "crear",$this->getErrores());
+				} catch (\Exception $e) {
+
+					View::renderErrors(array($e->getMessage()));
+					
+				}
+
+
 			}
 
+			else {
+				$this->view->render(explode("\\",get_class($this))[1], "crear",$this->getErrores());
+			}
 			//print_r($params);
 
 		//	if (isset($params['nombre_equipo']) && isset($params['txtarea']) && isset($params['categoria']) && isset($params['camiseta1']) && isset($params['camiseta2']))
@@ -36,7 +55,7 @@
 		//	}
 
 			//Renderizando la vista asociada
-			$this->view->render(explode("\\",get_class($this))[1], "crear",$this->getErrores());
+			
 
 		}
 
@@ -65,9 +84,36 @@
 		    $estadio = $params['estadio'];
 		    $arbitro = $params['arbitro'];
 		    $incidencia = $params['incidencia'];
+
 		    $usuario = "pancho";
 		    $fecha_creacion = "12/12/2014";
 		    $fecha_modificacion ="12/12/2014";
+
+		    $this->valida->validaDatos($resultado,"El resultado no está escrito correctamente.",'resultado',10);
+		  	$this->valida->validaDatos($estadio,"Los estadio no están escritos correctamente.",'estadio',30);
+		  	$this->valida->validaDatos($arbitro,"La arbitro no está escrita correctamente.", 'arbitro',25);
+		  	$this->valida->validaDatos($incidencia,"La incidencia no está escrita correctamente.",'incidencia', 70);
+
+		  	if(count($this->valida->getErroresValidacion()) == 0 ){
+
+		    	 if(count($this->errores) ==0 ){
+		    	try{
+		        	$this->model->guardar($resultado, $estadio, $arbitro, $incidencia, $usuario, $fecha_creacion, $fecha_modificacion );
+		        	//echo "no hay error";
+		    	}
+		    	catch(\Exception $e){
+					$this->errores['global']=$e->getMessage();
+				}
+		    }
+		    }
+
+		    
+
+		    else {
+		    	$this->view->render(explode("\\",get_class($this))[1], "crear",null,$this->valida->getErroresValidacion());
+		    }
+   
+
 
 
 
@@ -86,15 +132,7 @@
 		        
 		    }*/
 
-		    if(count($this->errores) ==0 ){
-		    	try{
-		        	$this->model->guardar($resultado, $estadio, $arbitro, $incidencia, $usuario, $fecha_creacion, $fecha_modificacion );
-		        	//echo "no hay error";
-		    	}
-		    	catch(\Exception $e){
-					$this->errores['global']=$e->getMessage();
-				}
-		    }
+		   
 				
 		}
 
