@@ -3,18 +3,19 @@
 	use libs\Controller;
 	use libs\Validation;
 	use libs\View;
+	use libs\Security;
 	
 
 	class Equipo extends Controller {
 
 		private $valida;
+		private $xss;
 
 		public function __construct(){
 			parent::__construct();
 			$this->loadModel();
 			$this->valida = new Validation();
-
-			
+			$this->xss = new Security();			
 		}
 
 		public function listarEquipos() {
@@ -27,12 +28,21 @@
 
 		public function crear($params=array()){
 
-
+			/*echo "<script language='javascript'>"; 
+			echo "alert('EPALE.')"; 
+			echo "</script>";*/
 			
 			if(isset($params['nombre_equipo']) && isset($params['patrocinadores']) && isset($params['categoria']) && isset($params['camiseta1']) && isset($params['camiseta2'])){
 				
 				try {
-					$this->crearEquipo($params);
+
+					$nombre_equipo = $this->xss->xss($params['nombre_equipo']);			
+					$patrocinadores = $this->xss->xss($params['patrocinadores']);
+					$categoria = $this->xss->xss($params['categoria']);
+					$camiseta1 = $this->xss->xss($params['camiseta1']);
+					$camiseta2 = $this->xss->xss($params['camiseta2']);
+					
+					$this->crearEquipo($nombre_equipo,$patrocinadores, $categoria, $camiseta1, $camiseta2);
 					$this->view->render(explode("\\",get_class($this))[1], "crear",$this->getErrores());
 				} catch (\Exception $e) {
 
@@ -69,17 +79,21 @@
 
 		}
 
-		public function crearEquipo($params){
+		public function crearEquipo($nombre_equipo, $patrocinadores, $categoria, $camiseta1, $camiseta2){
 			
 		    //$dia = $params['dia'];
 		    //$produccion = $params['produccion'];
 		    //$demanda = $params['demanda'];
 
-		    $nombre_equipo = $params['nombre_equipo'];
+		    /*$nombre_equipo = $params['nombre_equipo'];
 		    $patrocinadores = $params['patrocinadores'];
 		    $categoria = $params['categoria'];
 		    $camiseta1 = $params['camiseta1'];
-		    $camiseta2 = $params['camiseta2'];
+		    $camiseta2 = $params['camiseta2'];*/
+
+
+
+
 		    $usuario = "pancho";
 		    $fecha_creacion = "12/12/2014";
 		    $fecha_modificacion ="12/12/2014";

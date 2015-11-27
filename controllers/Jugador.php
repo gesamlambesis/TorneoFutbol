@@ -3,15 +3,18 @@
 	use libs\Controller;
 	use libs\Validation;
 	use libs\View;
+	use libs\Security;
 
 	class Jugador extends Controller {
 
 		private $valida;
+		private $xss;
 
 		public function __construct(){
 			parent::__construct();
 			$this->loadModel();
 			$this->valida = new Validation();
+			$this->xss = new Security();
 			
 		}
 
@@ -33,8 +36,16 @@
 			if(isset($params['nombre_jugador']) && isset($params['apellidos']) && isset($params['direccion']) && isset($params['telefono']) && isset($params['fecha_nacimiento']) && isset($params['num_dorsal']) && isset($params['equipo']) ){
 				
 				try {
+
+					$nombre_jugador = $this->xss->xss($params['nombre_jugador']);			
+					$apellidos = $this->xss->xss($params['apellidos']);
+					$direccion = $this->xss->xss($params['direccion']);
+					$telefono = $this->xss->xss($params['telefono']);
+					$fecha_nacimiento = $this->xss->xss($params['fecha_nacimiento']);
+					$num_dorsal = $this->xss->xss($params['num_dorsal']);
+					$equipo = $this->xss->xss($params['equipo']);
 					
-					$this->crearJugador($params);
+					$this->crearJugador($nombre_jugador,$apellidos,$direccion,$telefono,$fecha_nacimiento,$num_dorsal,$equipo);
 					$equipos = $this->model->listarEquipos();
 					$this->view->render(explode("\\",get_class($this))[1], "crear",$equipos, $this->getErrores());
 					
@@ -84,7 +95,7 @@
 				}
 		}
 
-		public function crearJugador($params){
+		public function crearJugador($nombre_jugador,$apellidos,$direccion,$telefono,$fecha_nacimiento,$num_dorsal, $equipo){
 			
 		    //$dia = $params['dia'];
 		    //$produccion = $params['produccion'];
@@ -94,18 +105,18 @@
 			//print_r($params);
 
 			
-		    $nombre= $params['nombre_jugador'];
+		    /*$nombre= $params['nombre_jugador'];
 		    $apellidos = $params['apellidos'];
 		    $direccion = $params['direccion'];
 		    $telefono = $params['telefono'];
 		    $fecha_nacimiento = $params['fecha_nacimiento'];
-		    $num_dorsal = $params['num_dorsal'];
-		    $equipo = $params['equipo'];
+		    $num_dorsal = $params['num_dorsal'];*/
+		   // $equipo = $params['equipo'];
 		    $usuario = "pancho";
 		    $fecha_creacion = "12/12/2014";
 		    $fecha_modificacion ="12/12/2014";
 
-		    $this->valida->validaDatos($nombre,"El nombre del equipo no está escrito correctamente.",'nombre_jugador',25);
+		    $this->valida->validaDatos($nombre_jugador,"El nombre del equipo no está escrito correctamente.",'nombre_jugador',25);
 		  	$this->valida->validaDatos($apellidos,"Los apellidos no están escritos correctamente.",'apellidos',25);
 		  	$this->valida->validaDatos($direccion,"La direccion no está escrita correctamente.", 'direccion',60);
 
@@ -117,7 +128,7 @@
 
 		  	 	  if(count($this->errores) ==0 ){
 		    	try{
-		        	$this->model->guardar($nombre,$apellidos, $direccion, $telefono, $fecha_nacimiento, $num_dorsal, $equipo, $usuario, $fecha_creacion, $fecha_modificacion);
+		        	$this->model->guardar($nombre_jugador,$apellidos, $direccion, $telefono, $fecha_nacimiento, $num_dorsal, $equipo, $usuario, $fecha_creacion, $fecha_modificacion);
 		        	//echo "no hay error";
 		    	}
 		    	catch(\Exception $e){

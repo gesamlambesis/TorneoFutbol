@@ -3,16 +3,19 @@
 	use libs\Controller;
 	use libs\Validation;
 	use libs\View;
+	use libs\Security;
 	
 
 	class Partido extends Controller {
 
 		private $valida;
+		private $xss;
 
 		public function __construct(){
 			parent::__construct();
 			$this->loadModel();
 			$this->valida = new Validation();
+			$this->xss = new Security();
 
 			
 		}
@@ -33,7 +36,13 @@
 				
 				
 				try {
-					$this->crearPartido($params);
+
+					$resultado = $this->xss->xss($params['resultado']);			
+					$estadio = $this->xss->xss($params['estadio']);
+					$arbitro = $this->xss->xss($params['arbitro']);
+					$incidencia = $this->xss->xss($params['incidencia']);
+				
+					$this->crearPartido($resultado, $estadio, $arbitro, $incidencia);
 					$this->view->render(explode("\\",get_class($this))[1], "crear",$this->getErrores());
 				} catch (\Exception $e) {
 
@@ -74,16 +83,16 @@
 				}
 		}
 
-		public function crearPartido($params){
+		public function crearPartido($resultado, $estadio, $arbitro, $incidencia){
 			
 		    //$dia = $params['dia'];
 		    //$produccion = $params['produccion'];
 		    //$demanda = $params['demanda'];
 
-		    $resultado = $params['resultado'];
+		   /* $resultado = $params['resultado'];
 		    $estadio = $params['estadio'];
 		    $arbitro = $params['arbitro'];
-		    $incidencia = $params['incidencia'];
+		    $incidencia = $params['incidencia'];*/
 
 		    $usuario = "pancho";
 		    $fecha_creacion = "12/12/2014";
