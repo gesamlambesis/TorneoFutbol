@@ -57,7 +57,7 @@ class JugadorModel {
 		$sql1 = "INSERT INTO jugador (nombre,apellidos,direccion, telefono, fecha_nacimiento, num_dorsal, id_equipo, usuario_creador, fecha_creacion, ultima_modificacion) VALUES
 		('$nombre', '$apellidos', '$direccion', '$telefono' , '$fecha_nacimiento', '$num_dorsal',
 			'$id_equipo', 'PANCHO','$date', '$date');";
-		echo $sql1;
+//		echo $sql1;
 
 		//$sql1 = vsprintf("INSERT INTO equipo VALUES(%s, %s, %s,%s,%s);", $params);
 		//$sql1 = vsprintf("INSERT INTO equipo VALUES(15,'abc','aaa','juvenil','rojo','azul','pancho',12/12/2015,12/12/2015)");
@@ -104,7 +104,7 @@ class JugadorModel {
 
 		
 		//printf($jugadores);
-		//echo "<pre>";
+		//echo "WHAT??";
 		//print_r($jugadores);
 
 		return $jugadores;

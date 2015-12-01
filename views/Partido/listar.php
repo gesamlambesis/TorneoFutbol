@@ -26,7 +26,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-        <a class="navbar-brand" href="#">Inicio</a>
+        <a class="navbar-brand" href="<?php echo URL_INDEX?>">Inicio</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -80,7 +80,7 @@
 
 <div class="container">
 
-<h3 class="text-center"> Lista de Jugadores</h3>
+<h3 class="text-center"> Lista de Partidos</h3>
  <hr>
 
   <div class="row">

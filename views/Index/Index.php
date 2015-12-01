@@ -63,9 +63,20 @@
             </li>
 
 
+
           </ul>
            <a class="navbar-brand" href="<?php echo URL_LOGIN ?>">Cerrar Sesión</a>
            
+            <?php
+               $visit = $_COOKIE['lastVisit'];
+               $timeframe = 90 * 60 * 24 * 60 + time();
+              setcookie('lastVisit', date("G:i - m/d/y"), $timeframe);
+              if(isset($_COOKIE['lastVisit']))
+              $visit = $_COOKIE['lastVisit'];
+              else
+              echo "Welcome to out web page!";
+              echo "Último acceso: ". $visit;
+                                                ?>
 
      
         </div>
@@ -131,9 +142,7 @@
 <!-- Wrap the rest of the page in another container to center all the content. -->
  <br>
 
- <?php
-   echo "Paginas vistas en la sesion " . $_SESSION["ultima_entrada"];
-  ?>
+ 
 
 <div class="container marketing">
 

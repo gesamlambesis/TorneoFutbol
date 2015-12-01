@@ -1,17 +1,3 @@
-<!--<?php
-
-  
-  session_start();
-
- // $fecha_modificacion = date('d-m-Y h:i:s', time());
-
-  if (!isset($_SESSION["ultima_entrada"])) {
-    $_SESSION["ultima_entrada"] = 1;
-  } else {
-    $_SESSION["ultima_entrada"]++;
-  }
-
- ?>-->
 
 
 <!DOCTYPE html>

@@ -33,7 +33,7 @@
 			//$valor_equipos = $this->model->listarValores();
 
 			//Llamando al metodo del modelo
-			if(isset($params['nombre_jugador']) && isset($params['apellidos']) && isset($params['direccion']) && isset($params['telefono']) && isset($params['fecha_nacimiento']) && isset($params['num_dorsal']) && isset($params['equipo']) ){
+			if(isset($params['nombre_jugador']) && isset($params['apellidos']) && isset($params['direccion']) && isset($params['telefono']) && isset($params['num_dorsal']) && isset($params['equipo']) && isset($params['dia']) && isset($params['mes']) && isset($params['año']) ){
 				
 				try {
 
@@ -44,6 +44,11 @@
 					$fecha_nacimiento = $this->xss->xss($params['fecha_nacimiento']);
 					$num_dorsal = $this->xss->xss($params['num_dorsal']);
 					$equipo = $this->xss->xss($params['equipo']);
+
+					$fecha_nacimiento = $params['año']."-".$params['mes']."-".$params['dia'];
+
+					echo "EPALEEE";
+					
 					
 					$this->crearJugador($nombre_jugador,$apellidos,$direccion,$telefono,$fecha_nacimiento,$num_dorsal,$equipo);
 					$equipos = $this->model->listarEquipos();
